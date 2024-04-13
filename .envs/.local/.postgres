@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=djangoboiler
+POSTGRES_USER=SICxrAMRoGTnMijQsBMEAmhIUGuRvJfj
+POSTGRES_PASSWORD=1yfgkhO2PhY32VmRuvbPn12XxT0gd79t2VkjkeHs3CH9pIYTtFLVburV2AWHQ9Am
